@@ -7,7 +7,7 @@ import yaml
 # CONFIG
 # =========================
 #BASE_URL = "C:/Users/daehe/OneDrive/바탕 화면/Study/git_pages/dist"   # 🔥 반드시 repo 이름으로
-BASE_URL = "/pages"   # 🔥 반드시 repo 이름으로
+BASE_URL = "/page"   # 🔥 반드시 repo 이름으로
 POSTS_SRC = "posts"
 TEMPLATE_DIR = "templates"
 DIST_DIR = "dist"
