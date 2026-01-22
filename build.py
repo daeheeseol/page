@@ -1,4 +1,4 @@
-BASE_URL = "C:/Users/daehe/OneDrive/바탕 화면/Study/git_pages/dist"   # 🔥 반드시 repo 이름으로
+#BASE_URL = "C:/Users/daehe/OneDrive/바탕 화면/Study/git_pages/dist"   # 🔥 반드시 repo 이름으로
 
 import os
 import re
@@ -6,7 +6,7 @@ import markdown
 import yaml
 import shutil
 
-#BASE_URL = "/page"   # GitHub Pages project page
+BASE_URL = "/page"   # GitHub Pages project page
 POSTS_DIR = "posts"
 DIST_DIR = "dist"
 TEMPLATE_DIR = "templates"
